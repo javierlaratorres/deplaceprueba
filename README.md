@@ -1,3 +1,11 @@
+<p>Creo que en BBDD haria varios cambio como:<p>
+    <ul>
+        <li>Guardar en inmuebles el último estado de la visita</li>
+        <li>En la tabla visitas tener la fecha de cuando se realizo</li>
+    </ul>
+
+<p>He dejado dos punto de la práctica porque no he entendido bien la pregunta. El punto de porcentaje de descuento en la compra del inmueble porque no sabía exactamente donde recuperar ese porcentaje. Y el segundo punto que he dejado sin hacer es que no se exactamente cual es el último estado del inmueble </p>
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
