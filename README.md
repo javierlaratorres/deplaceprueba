@@ -1,6 +1,7 @@
 <p>Creo que en BBDD haria varios cambio como:<p>
     <ul>
         <li>Guardar en inmuebles el último estado de la visita</li>
+        <li>Crear un campo nuevo en inmuebles que sea tipo_archivo, indexado para las busquedas, y así no tener que trabajar con el campo archivo.</li>
         <li>En la tabla visitas tener la fecha de cuando se realizo</li>
     </ul>
 
